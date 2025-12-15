@@ -4,7 +4,8 @@ Risk-Aware Loan Portfolio Optimization
 Risk-Aware Loan Portfolio Optimization (Google Colab)
 
 ## Deployed App Link
-https://risk-aware-loan-optimization-efcowutn4m6tmkzl8na3fu.streamlit.app
+[https://risk-aware-loan-optimization-efcowutn4m6tmkzl8na3fu.streamlit.app](https://risk-aware-loan-optimization-efcowutn4m6tmkzl8na3fu.streamlit.app)
+
 
 Overview
 
